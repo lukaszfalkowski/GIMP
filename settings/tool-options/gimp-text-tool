@@ -1,0 +1,8 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.2521186440677966 0.53125 0.34297316384180798))
+(palette "Firecode")
+(font "Gilroy Ultra-Bold")
+(box-mode fixed)
+
+# end of gimp-text-tool options

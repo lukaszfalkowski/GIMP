@@ -1,0 +1,12 @@
+# GIMP gimp-airbrush-tool options
+
+(foreground (color-rgb 0.2521186440677966 0.53125 0.34297316384180798))
+(brush "2. Hardness 100")
+(dynamics "Dynamics Off")
+(gradient "FG to BG (RGB)")
+(palette "Firecode")
+(brush-size 51)
+(gradient-blend-color-space cie-lab)
+(gradient-repeat truncate)
+
+# end of gimp-airbrush-tool options
